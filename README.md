@@ -36,5 +36,3 @@ my_list.pop()
 # Sort in ascending order
 my_list.sort()
 
-# Find index of value 30
-index_of_30 = my_list.index(30)
